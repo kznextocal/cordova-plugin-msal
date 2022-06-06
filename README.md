@@ -1,3 +1,6 @@
+#kznextocal update
+Fix signout crash bug
+
 # Cordova MSAL Plugin
 So you want to integrate your mobile app with Microsoft's authentication service?
 ## Basic Assumptions and Requirements
