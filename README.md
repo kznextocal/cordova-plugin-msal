@@ -1,4 +1,4 @@
-#kznextocal update
+# kznextocal update
 Fix signout crash bug
 
 # Cordova MSAL Plugin
